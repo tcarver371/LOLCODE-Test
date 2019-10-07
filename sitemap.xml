@@ -3,11 +3,198 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/lolcode/calling/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/definition/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/functions/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/returning/</loc>
+    <lastmod>2016-05-05T08:57:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/conditionals/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/flow-control/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/loops/</loc>
+    <lastmod>2016-05-05T08:55:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/assign_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/expression_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/flow_statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/statements/</loc>
+    <lastmod>2016-05-05T08:50:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/input/output/</loc>
+    <lastmod>2016-05-05T08:48:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/terminal_based/</loc>
+    <lastmod>2016-05-05T08:48:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/boolean/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/precedence/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/casting/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/comparison/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/concatenation/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/math/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/operators/</loc>
+    <lastmod>2016-05-05T08:46:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/about_types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/arrays/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/booleans/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/numerical/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/strings/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/types/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/untyped/</loc>
+    <lastmod>2016-05-05T08:41:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/declaration/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/naming/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/scope/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/variables/</loc>
+    <lastmod>2016-05-05T08:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/comments/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/file_creation/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/formatting/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lolcode/whitespace/</loc>
+    <lastmod>2016-05-04T17:35:01-04:00</lastmod>
   </url>
   
   <url>
